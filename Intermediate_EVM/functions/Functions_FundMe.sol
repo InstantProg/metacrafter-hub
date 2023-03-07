@@ -2,6 +2,12 @@
 
 pragma solidity ^0.8.0;
 
+// # Project description:
+// - This contract uses the knowledge I have accululated from Metacrafters form this point. 
+// - It uses different function types (view, pure, payable) to make a crowdfunding platform
+// - I am looking for areas of improvement, therfore, please critisize as much as you can.
+// - Peace!
+
 contract FundMe {
     // This contract allows people to fund projects by gathering their money in the balance of the contract
     // At the end only the owner of this contract can withdraw the tokens from tha balance of the contract to his address
