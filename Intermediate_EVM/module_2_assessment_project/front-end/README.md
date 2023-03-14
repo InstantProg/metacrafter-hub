@@ -1,0 +1,1 @@
+Welcome, this is my first semi-serious dApp that has a frontend (pure `html`) and a blockchain in the backend with javascript to connect them together.
